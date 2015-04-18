@@ -20,8 +20,4 @@ Licence
 
 Schematic
 =========
-![tlc5940driversch](https://cloud.githubusercontent.com/assets/5130298/7105189/1923fe66-e105-11e4-80e8-40ed838f922f.PNG)
-
-LEDPlate
-========
-![ledplate](https://cloud.githubusercontent.com/assets/5130298/7105035/c409c99a-e0fc-11e4-9680-42f8ffbcb5a7.PNG)
+![sdcardplayer8bitmonosch](https://cloud.githubusercontent.com/assets/5130298/7216017/1a1015a8-e5e7-11e4-94df-8e912ecf0967.PNG)
