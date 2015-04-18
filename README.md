@@ -26,12 +26,8 @@ Programming File Fuse Settings
 ==============================
 Set fuses before flashing program code
 
-SPIEN: tick
-BODLEVEL: 2V7
-
-SPIEN: tick
-BODLEVEL: 2V7
-SUT_CKSL: PLLCLK_1KCK_14CK_64MS
-EXT:  FF
-HIGH: DD
-LOW:  E1
+1. ATTINY85 microcontroller
+2. Next track switch
+3. Sound control
+4. Power ON/OFF
+5. Atmel Studio 6 programming file
