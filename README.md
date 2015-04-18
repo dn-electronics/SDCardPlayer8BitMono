@@ -25,6 +25,10 @@ Schematic
 Programming File Fuse Settings
 ==============================
 Set fuses before flashing program code
+
+SPIEN: tick
+BODLEVEL: 2V7
+
 SPIEN: tick
 BODLEVEL: 2V7
 SUT_CKSL: PLLCLK_1KCK_14CK_64MS
