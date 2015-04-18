@@ -4,7 +4,7 @@ Introduction
 ============
 The SDCardPlayer8BitMono is a Mono 8-bit WAV player based on the populat Simple SD Audio Player by Elm-Chan 
 
-![tlc5940driverbrd](https://cloud.githubusercontent.com/assets/5130298/7105029/5bb1785c-e0fc-11e4-8f9a-1dfed195fc32.PNG)
+![sdcardplayer8bitmonobrd](https://cloud.githubusercontent.com/assets/5130298/7216016/efb87642-e5e6-11e4-9c0e-0a712c5cc24c.PNG)
 
 Features
 ========
