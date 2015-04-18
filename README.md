@@ -26,9 +26,9 @@ Programming File Fuse Settings
 ==============================
 Set fuses before flashing program code
 
-SPIEN: tick /n
-BODLEVEL: 2V7
-SUT_CKSL: PLLCLK_1KCK_14CK_64MS
+1. SPIEN: tick
+2. BODLEVEL: 2V7
+3. SUT_CKSL: PLLCLK_1KCK_14CK_64MS
 EXT:  FF
 HIGH: DD
 LOW:  E1
