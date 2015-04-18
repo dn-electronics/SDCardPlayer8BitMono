@@ -24,7 +24,7 @@ Schematic
 
 Programming File Fuse Settings - ATTINY85
 =========================================
-Set fuses before flashing program code
+Blow fuses before flashing program code
 
 1. SPIEN: tick
 2. BODLEVEL: 2V7
